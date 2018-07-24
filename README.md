@@ -9,7 +9,7 @@ Here are the main revisions:
 # Source codes
 * Library Id: MxGFqRot3O658Y-B8q2SkCeoUuG5-a_8Z
 * Library source: https://script.google.com/d/1VkaZf_Y8DJnC-9GdkGr5eA7eOZ8l1g8CSP7U_2MYfac97pHZEqK01za1/edit
-* Sample code: https://script.google.com/d/11SDhxP53ROEvXstSioHDAl3pDNUIb3prfNRUoHhv8E1DvFu0snf56UHN/edit?usp=sharing
+* Demo script: https://script.google.com/d/11SDhxP53ROEvXstSioHDAl3pDNUIb3prfNRUoHhv8E1DvFu0snf56UHN/edit?usp=sharing
   Be sure to text in your own Firebase url and secret in Firebase_.gs file <br/><br/>
 
 # Notices
