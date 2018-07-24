@@ -1,5 +1,5 @@
 # -GAS-FirebaseLibrary
-An Google Apps Script library and a demo script for Firebase access
+A Google Apps Script library and a demo script for Firebase access
 This is a revision from the original source under the Apache License, Version 2.0
 https://sites.google.com/site/scriptsexamples/new-connectors-to-google-services/firebase/source
 Here are the main revisions: 
