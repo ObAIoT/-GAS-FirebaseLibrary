@@ -14,5 +14,5 @@ Here are the main revisions:
 
 # Notices
 * Add as a library or put source code in your GAS project for faster operations<br/>
-* Please do use setAll and getAll as best as you can beacuse a quota limit of "UrlFetchApp" present not only for daily counts but also for frequency in a certain period. 
+* Please do use setAll and getAll as best as you can beacuse a quota limit of "UrlFetchApp" present not only for daily counts but also for frequencies in a certain period. 
   You may get an exception "Error: We're sorry, a server error occurred. Please wait a bit and try again." which results from exceeding quota limit.<br/>
